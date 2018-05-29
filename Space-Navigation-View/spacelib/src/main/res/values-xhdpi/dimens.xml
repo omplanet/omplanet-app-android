@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="badge_left_margin">1dp</dimen>
+    <dimen name="negative_margin">20dp</dimen>
+</resources>
